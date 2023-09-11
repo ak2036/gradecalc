@@ -1,4 +1,4 @@
-print("Exam Grade Calculator")
+print("*** Exam Grade Calculator ***")
 print()
 nt= input("Name of test: ")
 print()
